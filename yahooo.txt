@@ -1,0 +1,14 @@
+Start Game
+Add Player Mar
+Mar needs a power up
+It's a me a conditional (Mar>2) Yahoo
+Mar jumps to (Mar-10)
+show Mar
+Mamma Mia...
+Mar jumps to (Mar-10)
+Let's Go!
+YA MA (Mar>=3) YAHOO!
+Mar jumps to (Mar-3)
+show Mar
+AH HA!
+Game Over
